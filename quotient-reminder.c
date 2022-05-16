@@ -10,5 +10,4 @@ int main()
     rem = div % divisor;
     printf("quot=%d \n", quot);
     printf("rem=%d",rem);
-    
 }
