@@ -1,0 +1,11 @@
+@startuml "A"
+start
+:**Declare** a variable for
+Divident,Divisor;
+:Get Divident,Divisor from user;
+:**Compute**
+Quotient <--Divident/Divisor
+Reminder <--Divident mod Divisor;
+:display Quotient,Reminder;
+stop
+@endum1
