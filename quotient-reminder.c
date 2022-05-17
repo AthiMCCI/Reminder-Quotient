@@ -14,7 +14,7 @@ Copyright notice:
     copied without the prior permission of MCCI Corporation.
 
 Author:
-        Athisankar, MCCI Corporation   May 2022
+    Athisankar, MCCI Corporation   May 2022
 */
 
 #include <stdio.h>
