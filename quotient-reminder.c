@@ -25,6 +25,19 @@ Author:
 |
 \*********************************************/
 
+/*
+Name: main()
+
+Function:
+    To compute quotient and reminder and to diplay the output.
+
+Definition:
+    int main();
+
+Returns:
+    Functions returning type: integer.
+*/
+
 int main()
     {
     printf("\n");
