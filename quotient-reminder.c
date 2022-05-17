@@ -47,7 +47,7 @@ int main()
     printf("\n");
     printf("IT IS USED TO FIND QUOTIENT AND REMINDER \n \n");
 
-    int Divident, divisor, quotitent, reminder;
+    int divident, divisor, quotitent, reminder;
 
     printf("ENTER DIVIDENT");
     scanf("%d",&divident);
@@ -55,7 +55,7 @@ int main()
     printf("enter DIVISOR");
     scanf("%d",&divisor);
 
-    quotient = divident/divisor;
+    quotitent = divident/divisor;
     reminder = divident % divisor;
 
     printf("\n \n******************************************\n");
