@@ -47,20 +47,20 @@ int main()
     printf("\n");
     printf("IT IS USED TO FIND QUOTIENT AND REMINDER \n \n");
 
-    int div, divisor, quot, rem;
+    int Divident, divisor, quotitent, reminder;
 
-    printf("ENTER DIV");
-    scanf("%d",&div);
+    printf("ENTER DIVIDENT");
+    scanf("%d",&divident);
 
     printf("enter DIVISOR");
     scanf("%d",&divisor);
 
-    quot = div/divisor;
-    rem = div % divisor;
+    quotient = divident/divisor;
+    reminder = divident % divisor;
 
     printf("\n \n******************************************\n");
-    printf("quot=%d \n", quot);
-    printf("rem=%d",rem);
+    printf("quotient=%d \n", quotitent);
+    printf("reminder=%d",reminder);
 
     return 0;
     }
